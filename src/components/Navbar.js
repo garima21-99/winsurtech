@@ -43,7 +43,7 @@ function Navbar() {
           <img src={image} alt="logo" />
         </Typography>
           <div className={classes.navlinks}>
-          <Link to="/" className={classes.link}>
+          <Link to="/winsurtech" className={classes.link}>
             Home
             </Link>
           <Link to="/pricing" className={classes.link}>
