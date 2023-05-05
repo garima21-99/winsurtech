@@ -5,10 +5,10 @@ import { Button } from '@mui/material'
 const OtherSolutions=()=>{
     return(
         <>
-        <div className="py-5 container other_solutions mb-5">
+        <div className="py-5  other_solutions ms-2 mb-5">
 
-<h1 className='text-center'>Our Other Solutions</h1>
-<div className="row">
+<h1 className='text-center mb-2'>Our Other Solutions</h1>
+<div className="row ">
  
       <div className="col-3">
     <div className="card prod_container">
